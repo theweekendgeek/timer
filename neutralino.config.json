@@ -32,10 +32,10 @@
   "modes": {
     "window": {
       "title": "timer",
-      "width": 800,
+      "width": 500,
       "height": 500,
-      "minWidth": 400,
-      "minHeight": 200,
+      "minWidth": 500,
+      "minHeight": 500,
       "fullScreen": false,
       "alwaysOnTop": false,
       "icon": "/resources/icons/appIcon.png",
@@ -43,7 +43,7 @@
       "borderless": false,
       "maximize": false,
       "hidden": false,
-      "resizable": true,
+      "resizable": false,
       "exitProcessOnClose": false
     },
     "browser": {
